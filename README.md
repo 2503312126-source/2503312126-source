@@ -54,27 +54,3 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=2503312126-source&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
-</p>
-
-<h2 align="center">📌 My Projects 📌</h2>
-
-<p align="center">
-  <a href="https://github.com/2503312126-source/Sipora-Web">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=2503312126-source&repo=Sipora-Web&theme=radical&hide_border=true"/>
-  </a>
-  <a href="https://github.com/2503312126-source/Game-Ular-HD">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=2503312126-source&repo=Game-Ular-HD&theme=radical&hide_border=true"/>
-  </a>
-</p>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-  <br/><br/>
-  <sub>⭐ From <a href="https://github.com/2503312126-source">2503312126-source</a></sub>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6&height=120&section=footer" width="100%"/>
-</div>
